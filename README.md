@@ -4,10 +4,13 @@ Revive Pixels is a web-based tool that allows users to upload low-quality or blu
 ⚙️ How It Works
 User Uploads an Image
 Through a simple web interface, the user selects an image to enhance.
+
 Image Processing via FastAPI Backend
 The image is sent to a FastAPI backend where it's preprocessed and converted to a tensor.
+
 Model Enhancement with SRCNN
 A lightweight SRCNN model processes the image to enhance its resolution and sharpness.
+
 Enhanced Image is Returned
 The processed image is converted back to a viewable format and returned for download or preview.
 
