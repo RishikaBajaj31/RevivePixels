@@ -2,6 +2,7 @@
 Revive Pixels is a web-based tool that allows users to upload low-quality or blurry images and restore them using a simple deep learning model based on SRCNN (Super-Resolution Convolutional Neural Network). It enhances image clarity, making your old or low-res photos look sharper and cleaner — all in the browser!\
 
 ⚙️ How It Works
+
 User Uploads an Image
 Through a simple web interface, the user selects an image to enhance.
 
