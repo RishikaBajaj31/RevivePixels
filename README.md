@@ -16,8 +16,13 @@ Enhanced Image is Returned
 The processed image is converted back to a viewable format and returned for download or preview.
 
 🚀 Technologies Used
+
 FastAPI – For creating the backend API
+
 PyTorch – For the SRCNN deep learning model
+
 Pillow (PIL) – For image processing
+
 ngrok – To expose the local server on Colab to the internet
+
 HTML + Form – For the upload UI
